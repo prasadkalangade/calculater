@@ -1,0 +1,23 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+.button{
+    width:57px;
+    padding:22px;
+    margin:5px;
+    border:2px solid black;
+    border-radius:9px;
+    cursor:pointer;
+}
+.text-center{
+    text-align:center;
+    
+}
+.container-bgyellow{
+    padding-left:500px;
+}
+.input{
+ padding:50px;
+ margin:10px;
+}
